@@ -11,7 +11,7 @@ To do:
 
 count anchors,internal and external links
 
-count which pages receime more links
+count which pages receive more links
 
 create graphical representation of links
 
