@@ -11,6 +11,6 @@ count anchors,internal and external links
 
 count which pages receime more links
 
-create graphica representation of links
+create graphical representation of links
 
 ....
