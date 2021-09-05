@@ -1,2 +1,2 @@
 # pagelinks
-Wordpress SEO on page links analyse
+Wordpress SEO on page links analysis
